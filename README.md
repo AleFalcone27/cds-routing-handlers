@@ -17,9 +17,9 @@
 
 ```bash
 $ npm install cds-routing-handlers
-
+```
 OR
-
+```bash
 $ yarn add cds-routing-handlers
 ```
 
@@ -27,9 +27,9 @@ Before you can use it you also need to install `reflect-metadata`.
 
 ```bash
 $ npm install reflect-metadata
-
+```
 OR
-
+```bash
 $ yarn add reflect-metadata
 ```
 
